@@ -1,18 +1,11 @@
 /** HEADER **/
 #header-nav {
- background-color: #f6b319;
+ background-color: #75cd96;
   
   border-radius: 0;
   border: 0;**/
 }
 
-
-
-
-
-/**.visible-xs{
-  background-color: white;
-}**/
 
 .navbar-header {
   height: 62px;
@@ -25,7 +18,7 @@
 
  .navbar-brand h1 { 
   font-family: Helvetica;
-  color: #557c3e;
+  color: #9675cd;
   font-size: 1.5em;
  
   font-weight: bold;
@@ -37,11 +30,15 @@
 } 
 
 
+#main-content h2 ,h3{
+  color: #9675cd;
+}
+
 #nav-list {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: #9675cd;
   text-align: center;
 }
 #nav-list a:hover {
@@ -49,6 +46,7 @@
 }
 #nav-list a span {
   font-size: 1.8em;
+  
 }
 
 
@@ -64,24 +62,12 @@
 
 
 #chicken-content{
-background-color: #f6b319;
+background-color: #75cd96;
 }
 #chicken-content p {
 
 height:  1000px
 }
 
-/**
-.container {
-  position:relative;
 
-}
-
-.row{
-  position:absolute;
-}
-.col-md-12 .col-sm-12 .col-xs-12 {
-margin-right: 0;
-  margin-left: 0;
-}**/
 }
